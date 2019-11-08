@@ -1,0 +1,27 @@
+{
+  "name": "testnodeserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TestServ.js",
+  "scripts": {
+    "start": "node Serv.js",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PowPodg/TestNodeServ.git"
+  },
+  "author": "P.Pw",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.0",
+    "rss-parser": "^3.7.2"
+  },
+  "bugs": {
+    "url": "https://github.com/PowPodg/TestNodeServ/issues"
+  },
+  "homepage": "https://github.com/PowPodg/TestNodeServ#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

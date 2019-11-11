@@ -1,5 +1,5 @@
-### Node http server
-#### Sample application
+# Node http server
+## Sample application
 A very simple node HTTP-server to read news headlines, downloaded from RSS https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en.   
 
 To run the application -   

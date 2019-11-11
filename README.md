@@ -6,7 +6,7 @@ To run the application -
 `npm: install`  
 `npm: start`   
 
-For link verification `npm: test` -simple unit test example   
+For verification link `npm: test` -simple unit test example   
 
 Runs on localhost <http://localhost:3000/>   
 Or link: <https://test-nodeserv.herokuapp.com/>

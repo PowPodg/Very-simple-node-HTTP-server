@@ -2,7 +2,7 @@
  * Copyright 2019 Oleg I.
  * Licensed under the ISC license
  */
-1
+
 const FnRss = require("./Rss.js");
 const http = require("http");
 //--------------------------------------------------

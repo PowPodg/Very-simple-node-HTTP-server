@@ -26,7 +26,7 @@ const FnLoadRssToHtml = async rssUrl => {
   } catch (e) {
     HeadTitle += `<h1 style="color:red;">Parsing ERROR!</h1>`;
   }
-
+//----------------------------------
   OutHtml += "</ul>";
 
   let OutDataRSS = [];

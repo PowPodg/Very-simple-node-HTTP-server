@@ -2,10 +2,13 @@
  * Copyright 2019 Oleg I.
  * Licensed under the ISC license
  */
-
+1
 const FnRss = require("./Rss.js");
 const http = require("http");
+<<<<<<< HEAD
 //-------------------------
+=======
+>>>>>>> 59a86af5c7f2e3d2d22399492ecebaf3ac9a07d0
 //--------------------------------------------------
 FnRss.FnLoadRssToHtml(FnRss.rssUrl).then(inDataRSS => {
   let port = process.env.PORT || 3000;

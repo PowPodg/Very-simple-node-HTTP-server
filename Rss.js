@@ -2,7 +2,7 @@
  * Copyright 2019 Oleg I.
  * Licensed under the ISC license
  */
-const rssUrl = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en";
+const rssUrl = "https://googlenws.ru/rss/latest-posts";
 
 const FnLoadRssToHtml = async rssUrl => {
   let Parser = require("rss-parser");

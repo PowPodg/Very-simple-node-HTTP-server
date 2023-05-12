@@ -2,7 +2,7 @@
   "name": "testnodeserv",
   "version": "1.0.0",
   "description": "",
-  "main": "TestServ.js",
+   "main": "TestServ.js",
   "scripts": {
     "start": "node Serv.js",
     "test": "mocha test.js"

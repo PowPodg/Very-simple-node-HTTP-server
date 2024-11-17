@@ -9,4 +9,3 @@ To run the application -
 For verification link `npm: test` -simple unit test example   
 
 Runs on localhost <http://localhost:3000/>   
-Or link: <https://test-nodeserv.herokuapp.com/>
